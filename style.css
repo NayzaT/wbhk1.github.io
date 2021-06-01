@@ -1,0 +1,61 @@
+.head{
+    color: gray;
+    padding: 20;
+    display: inline-flex;
+}
+
+.c1{
+    background-color:rgb(219, 219, 219);
+    display: inline-flex;
+    font-family: sans-serif;
+}
+
+h2{
+    color:rgb(126, 123, 123);
+}
+
+.left{
+  width: 50%;
+}
+
+.right{
+ width:50%;
+ right:0;
+
+}
+
+
+.button { 
+    border: none;
+    color:grey;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:honeydew;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.c2{
+    background-color:whitesmoke;
+    display: inline-flex;
+    font-family: sans-serif;
+}
+
+.c3{
+    background-color: rgb(188, 226, 226);
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.c4{
+    padding:20px;
+    font-family: sans-serif;
+}
+
+.clm{
+    float: left;
+    padding: 10px; 
+}
+
